@@ -362,9 +362,9 @@
       <h1>Central Hose<br>Command Unit</h1>
 
       <p>
-        A retro-styled showcase for a real field concept:
-        long-range wildfire water diversion, pressure monitoring, and remote threeway control
-        built for practical use on hose lays.
+  
+        Long-range wildfire pressure monitoring and remote threeway control
+        
       </p>
 
       <div class="hero-buttons">
@@ -377,7 +377,7 @@
   <main>
 
     <section id="about">
-      <h2>An Interesting Problem With a Unique Solution</h2>
+      <h2>The 3-way of Your Dreams</h2>
       <p>
         For years, firefighters have had to walk back to the threeway to stop water flow
         or manage pressure. All that back-and-forth adds up and makes water delivery more
