@@ -378,8 +378,13 @@
   <main>
 
     <section id="about">
-      <h2>The 3-way of Your Dreams</h2>
+      <h2>Wildfire meets IoT</h2>
       <p>
+      Wildland Firefighting is a gritty hard nosed operation that demands a lot from its equipment. As a result, much of the technology used has remained primitive so it can be reliable and fail in obvious ways. This allows firefighting operations to remain effective but often lack efficiency in key ways compared to adjacent fields. 
+
+      At Stanhope and Reid Wildfire Systems we strive to implement IoT technology solutions to the wildfire landscape while maintaining the consistency and durability that wildland firefighters demand from their equipment. We do not seek to automate the profession but rather provide solutions that give firefighters more tools and information at their disposal during operations. 
+        
+        
         For years, firefighters have had to walk back to the threeway to stop water flow
         or manage pressure. All that back-and-forth adds up and makes water delivery more
         demanding than it needs to be.
