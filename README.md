@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -345,10 +345,11 @@
         <span>S&R Wildfire Systems</span>
       </div>
       <div class="nav-links">
+        <a href="#home">Home</a>
         <a href="#about">About</a>
-        <a href="#diversion">Water Diversion</a>
-        <a href="#pressure">Pressure</a>
-        <a href="#data">Data</a>
+        <a href="#chcu">The CHCU</a>
+        <a href="#meettheteam">Team</a>
+        <a href="#merch">Merch</a>
       </div>
     </div>
   </nav>
@@ -368,8 +369,8 @@
       </p>
 
       <div class="hero-buttons">
-        <a class="btn" href="#about">Explore Project</a>
-        <a class="btn alt" href="#diversion">See It in Action</a>
+        <a class="btn" href="#chcu">See It in Action</a>
+        
       </div>
     </div>
   </header>
