@@ -358,13 +358,13 @@
     <div class="hero-content">
       <img class="hero-logo" src="logo.png" alt="S&R Wildfire Systems logo">
 
-      <div class="eyebrow">Remote wildfire water control</div>
+      
 
-      <h1>Central Hose<br>Command Unit</h1>
+      <h1>Remote Wildfire<br>Tech Solutions</h1>
 
       <p>
   
-        Long-range wildfire pressure monitoring and remote threeway control
+        Long-range wildfire pressure monitoring and remote 3-way control
         
       </p>
 
@@ -386,11 +386,7 @@ Wildland firefighting is a gritty, hard-nosed operation that demands a lot from 
 At Stanhope & Reid Wildfire Systems, we develop practical IoT-based solutions for the wildfire environment while preserving the consistency, toughness, and field reliability that firefighters demand from their equipment. Our goal is not to automate the profession, but to give firefighters better tools, better information, and more control during operations.
       
       </p>
-      <p>
-        The Central Hose Command Unit (CHCU) was designed to solve that problem.
-        Firefighters can remotely control water diversion using a mobile device and a linear actuator.
-        Using LoRa communication, the system can operate from over 1.2km away.
-      </p>
+    
 
       <div class="feature-grid">
         <div class="feature-card">
