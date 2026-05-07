@@ -387,35 +387,14 @@ At Stanhope & Reid Wildfire Systems, we develop practical IoT-based solutions fo
       </p>
     
 
-      <div class="feature-grid">
-        <div class="feature-card">
-          <strong>1 km+ Range</strong>
-          Long-distance remote control using LoRa communication.
-        </div>
-        <div class="feature-card">
-          <strong>Remote Threeway Control</strong>
-          Reduce unnecessary walking and speed up hose lay operations.
-        </div>
-        <div class="feature-card">
-          <strong>Pressure Feedback</strong>
-          Get live pressure updates from the field.
-        </div>
-      </div>
-
-      <div class="video-container">
-        <iframe
-          src="https://www.youtube.com/embed/UoZGK9sne38"
-          title="CHCU overview video"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen>
-        </iframe>
-      </div>
-    </section>
+  
 
     <section id="chcu">
       <h2>The CHCU</h2>
+      <h3>Your Dream 3-way, Reimagined</h3>
       <p>The Central Hose Command Unit (CHCU) provides wildland firefighters with a new means of long distance waterflow control allowing 
       for easier means of hoselay extension and pressure management</p>
+      
 
       <h3>Key Features</h3>
       <div class="feature-grid">
@@ -435,8 +414,17 @@ At Stanhope & Reid Wildfire Systems, we develop practical IoT-based solutions fo
 </section>
     <section id="team">
       <h2>The Team</h2>
+      <h3>Quinn Stanhope</h3>
+      <strong>Founder and CEO</strong>
+      <p>
+        Technology entrepreneur Quinn Stanhope commits tirelessly to serving the needs of wildland firefighters. As a former member of the BC Wildfire Service with the Rocky Mountain Unit Crew in Cranbrook BC and a graduate of the Okanagan College Electronic Engineering Technology program, he is one of the few people who can bridge the gap between wildland firefighters needs and the possibilities that technology can provide. 
+      </p>
+      Quinn was raised in Kelowna BC and no longer calls the area home. As a failed division 1 athlete while in the Journalism program at Canisius University, Quinn returned home and transferred schools multiple times before graduating with a BA in Economics from the University of Victoria in his 6th year. After a 4 year stint with the Rocky Mountain Unit Crew, previouly acquired institutionalization pulled him back to Okanagan College where he developed many of the skills he has today. In fall 2026 he will be enrolling at BCIT, his 6th post secondary penitentiary. 
+      <p>
       
-
+  
+      </p> 
+</section>
   </main>
 
   <footer>
