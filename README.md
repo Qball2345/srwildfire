@@ -348,7 +348,7 @@
         <a href="#home">Home</a>
         <a href="#about">About</a>
         <a href="#chcu">The CHCU</a>
-        <a href="#meettheteam">Team</a>
+        <a href="#team">Team</a>
         <a href="#merch">Merch</a>
       </div>
     </div>
@@ -433,36 +433,9 @@ At Stanhope & Reid Wildfire Systems, we develop practical IoT-based solutions fo
         </div>
       </div>
 
-    <section id="pressure">
-      <h2>Pressure Readings</h2>
-      <p>
-        The CHCU sends pressure readings to the user’s mobile device every 2 seconds.
-        This is useful for quick mental math about how many nozzles can be open and
-        for noticing when a hose may have blown a hole in it.
-      </p>
-
-      <div class="image-frame">
-        <img src="pressure_sensor.png" alt="Pressure sensor image">
-      </div>
-    </section>
-
-    <section id="data">
-      <h2>Data Capture and Analysis</h2>
-      <p>
-        Pressure readings can be logged and saved as an Excel file for analysis.
-        One experiment involved determining the minimum and maximum workable pressure
-        for a Hansen nozzle.
-      </p>
-      <p>
-        If the pressure is too high, the hose becomes too difficult to hold.
-        If the pressure is too low, the duff layer cannot be properly penetrated
-        and the fire cannot be extinguished.
-      </p>
-
-      <div class="image-frame">
-        <img src="Pressure_vs_Time_graph.png" alt="Pressure vs time graph">
-      </div>
-    </section>
+    <section id="team">
+      <h2>The Team</h2>
+      
 
   </main>
 
