@@ -412,40 +412,26 @@ At Stanhope & Reid Wildfire Systems, we develop practical IoT-based solutions fo
       </div>
     </section>
 
-    <section id="diversion">
-      <h2>Water Diversion</h2>
-      <p>The CHCU provides two types of threeway flips: full and incremental.</p>
+    <section id="chcu">
+      <h2>The CHCU</h2>
+      <p>The Central Hose Command Unit (CHCU) provides wildland firefighters with a new means of long distance waterflow control allowing 
+      for easier means of hoselay extension and pressure management</p>
 
-      <h3>Full</h3>
-      <p>
-        The full threeway flip allows for complete stoppage of water flow so firefighters
-        can add another length of hose.
-      </p>
-
-      <div class="video-container">
-        <iframe
-          src="https://www.youtube.com/embed/O6K0zqInA_I"
-          title="Full threeway flip"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen>
-        </iframe>
+      <h3>Key Features</h3>
+      <div class="feature-grid">
+        <div class="feature-card">
+          <strong>Remote Relay Network</strong>
+          Utilizes Mesh topology of LoRa communication to overcome diverse topography.
+        </div>
+        <div class="feature-card">
+          <strong>Remote Threeway Control</strong>
+          Reduce unnecessary walking and speed up hoselay extension during direct attack 
+        </div>
+        <div class="feature-card">
+          <strong>Pressure Feedback</strong>
+          Get live pressure updates from the field to adjust accordingly.
+        </div>
       </div>
-
-      <h3>Incremental</h3>
-      <p>
-        As a means of managing pressure, the threeway can be opened a certain percentage
-        to allow for pressure relief.
-      </p>
-
-      <div class="video-container">
-        <iframe
-          src="https://www.youtube.com/embed/yZ1eOZ8rw7U"
-          title="Incremental threeway flip"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen>
-        </iframe>
-      </div>
-    </section>
 
     <section id="pressure">
       <h2>Pressure Readings</h2>
