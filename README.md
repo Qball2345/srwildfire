@@ -363,7 +363,7 @@
 
       <p>
         A retro-styled showcase for a real field concept:
-        <span class="highlight">long-range wildfire water diversion, pressure monitoring, and remote threeway control</span>
+        long-range wildfire water diversion, pressure monitoring, and remote threeway control
         built for practical use on hose lays.
       </p>
 
@@ -384,9 +384,9 @@
         demanding than it needs to be.
       </p>
       <p>
-        The <span class="highlight">Central Hose Command Unit (CHCU)</span> was designed to solve that problem.
+        The Central Hose Command Unit (CHCU) was designed to solve that problem.
         Firefighters can remotely control water diversion using a mobile device and a linear actuator.
-        Using <span class="highlight">LoRa communication</span>, the system can operate from over 1 km away.
+        Using LoRa communication, the system can operate from over 1.2km away.
       </p>
 
       <div class="feature-grid">
@@ -416,7 +416,7 @@
 
     <section id="diversion">
       <h2>Water Diversion</h2>
-      <p>The CHCU provides two types of threeway flips: <span class="highlight">full</span> and <span class="highlight">incremental</span>.</p>
+      <p>The CHCU provides two types of threeway flips: full and incremental.</p>
 
       <h3>Full</h3>
       <p>
