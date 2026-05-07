@@ -380,14 +380,11 @@
     <section id="about">
       <h2>Wildfire meets IoT</h2>
       <p>
-      Wildland Firefighting is a gritty hard nosed operation that demands a lot from its equipment. As a result, much of the technology used has remained primitive so it can be reliable and fail in obvious ways. This allows firefighting operations to remain effective but often lack efficiency in key ways compared to adjacent fields. 
-
-      At Stanhope and Reid Wildfire Systems we strive to implement IoT technology solutions to the wildfire landscape while maintaining the consistency and durability that wildland firefighters demand from their equipment. We do not seek to automate the profession but rather provide solutions that give firefighters more tools and information at their disposal during operations. 
-        
-        
-        For years, firefighters have had to walk back to the threeway to stop water flow
-        or manage pressure. All that back-and-forth adds up and makes water delivery more
-        demanding than it needs to be.
+Wildland firefighting is a gritty, hard-nosed operation that demands a lot from its equipment. Much of the technology used in the field has remained simple by necessity: it needs to be reliable, durable, and able to fail in obvious ways. This keeps firefighting operations effective, but it can also leave room for major efficiency gains compared to adjacent industries.
+      </p>
+       <p>
+At Stanhope & Reid Wildfire Systems, we develop practical IoT-based solutions for the wildfire environment while preserving the consistency, toughness, and field reliability that firefighters demand from their equipment. Our goal is not to automate the profession, but to give firefighters better tools, better information, and more control during operations.
+      
       </p>
       <p>
         The Central Hose Command Unit (CHCU) was designed to solve that problem.
