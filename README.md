@@ -432,7 +432,7 @@ At Stanhope & Reid Wildfire Systems, we develop practical IoT-based solutions fo
           Get live pressure updates from the field to adjust accordingly.
         </div>
       </div>
-
+</section>
     <section id="team">
       <h2>The Team</h2>
       
