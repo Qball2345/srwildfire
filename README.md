@@ -364,7 +364,7 @@
 
       <p>
   
-        Long-range wildfire pressure monitoring and remote 3-way control
+        Long-range pressure monitoring and 3-way control
         
       </p>
 
@@ -380,11 +380,10 @@
     <section id="about">
       <h2>Wildfire meets IoT</h2>
       <p>
-Wildland firefighting is a gritty, hard-nosed operation that demands a lot from its equipment. Much of the technology used in the field has remained simple by necessity: it needs to be reliable, durable, and able to fail in obvious ways. This keeps firefighting operations effective, but it can also leave room for major efficiency gains compared to adjacent industries.
+Wildland firefighting is a gritty, hard-nosed operation that demands a lot from its equipment. Much of the technology used in the field has remained simple by necessity: it needs to be reliable, durable, and able to fail in obvious ways. This keeps firefighting operations effective, but it can also leave room for major efficiency gains especially when compared to adjacent industries.
       </p>
        <p>
 At Stanhope & Reid Wildfire Systems, we develop practical IoT-based solutions for the wildfire environment while preserving the consistency, toughness, and field reliability that firefighters demand from their equipment. Our goal is not to automate the profession, but to give firefighters better tools, better information, and more control during operations.
-      
       </p>
     
 
